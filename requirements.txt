@@ -1,2 +1,2 @@
-﻿opencv-python>=4.7.0.72
+opencv-python-headless>=4.7.0.72
 streamlit==1.21.0
