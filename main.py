@@ -1,4 +1,4 @@
-import cv2
+import opencv-python-headless
 import streamlit as st
 import numpy as np
 import tempfile
